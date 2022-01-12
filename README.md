@@ -2,13 +2,17 @@
 
 ## Instructions to Run
 
-### 1. Installing the dependencies
+### 1. Getting the code
 
-Run 'npm install' in the terminal to install the node modules (or dependencies) required.
+Download the zip file or clone this github repo. On your system, open the terminal and navigate to the root directory (where package.json is present).
 
-### 2. Running the application
+### 2. Installing the dependencies
 
-Run 'npm start' in the terminal.
+Run 'npm install' to install the node modules (or dependencies) required.
+
+### 3. Running the application
+
+Run 'npm start' to start the dev server.
 
 ## Live Demo
 
@@ -17,4 +21,4 @@ https://sethi-countries.herokuapp.com
 
 ## Screenshots
 
-<img src="./public/screenshot.png" width="400" />
+<img src="./public/screenshot.png" width="500" />
