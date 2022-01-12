@@ -22,7 +22,7 @@ function App() {
   }, [continent]);
 
   return (
-    <div className='bg-white w-full max-w-[820px] mx-auto space-y-5 px-2'>
+    <div className='bg-white w-full max-w-[820px] mx-auto space-y-5 px-2 mb-10'>
       <Toolbar
         count={countries.length}
         loading={isLoading}
