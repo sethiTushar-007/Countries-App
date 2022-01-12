@@ -12,8 +12,8 @@ Run 'npm start' in the terminal.
 
 ## Screenshots
 
-(./public/screenshot1.png)
-(./public/screenshot2.png)
+<img src="./public/screenshot1.png" />
+<img src="./public/screenshot2.png"/>
 
 ## Live Demo
 
