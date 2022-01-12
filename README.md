@@ -10,11 +10,11 @@ Run 'npm install' in the terminal to install the node modules (or dependencies) 
 
 Run 'npm start' in the terminal.
 
-## Screenshots
-
-<img src="./public/screenshot.png" width="250" />
-
 ## Live Demo
 
 You can find the application at the link below:
 https://sethi-countries.herokuapp.com
+
+## Screenshots
+
+<img src="./public/screenshot.png" width="400" />
